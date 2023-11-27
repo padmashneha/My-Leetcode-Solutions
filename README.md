@@ -2,12 +2,6 @@
 
 Welcome to my LeetCode Solutions Showcase repository! This repository is a collection of my solutions to various LeetCode problems. It serves as a platform to showcase my problem-solving skills and coding proficiency.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-3. [How to Use](#how-to-use)
-4. [Contributing](#contributing)
-
 
 ## Introduction
 
